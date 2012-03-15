@@ -148,6 +148,7 @@ h5 {
 div#content {
     width: 95%;
     margin: 0 auto;
+    margin-top: 20px;
     text-align: left;
 }
 
